@@ -1,0 +1,22 @@
+.env
+.idea
+*.iml
+target
+.classpath
+.project
+.settings
+.vscode
+build
+.gradle
+out
+bin
+tmp
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
